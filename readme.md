@@ -15,9 +15,11 @@ npm install
 npm run dev
 ```
 
-API disponível em:
+Após iniciar o servidor, a API estará disponível em:
 
+```text
 http://localhost:3000/projects
+```
 
 ### Frontend
 
@@ -27,10 +29,11 @@ npm install
 npm run dev
 ```
 
-Aplicação disponível em:
+Após iniciar a aplicação, ela estará disponível em:
 
+```text
 http://localhost:5173
-
+```
 # 1. Modelagem do Domínio
 
 ## Cliente: Representa a empresa contratante do projeto.
