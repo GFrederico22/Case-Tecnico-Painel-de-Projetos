@@ -5,6 +5,32 @@ Este documento apresenta a proposta de modelagem e arquitetura para o módulo Pa
 O objetivo da solução é permitir o acompanhamento da saúde dos projetos, consolidando informações de horas vendidas, planejadas e realizadas, bem como indicadores de avanço e status operacional.
 Como o TOTVS RM é a fonte oficial dos dados, ele será tratado como um sistema externo responsável pelo fornecimento das informações utilizadas pelo portal.
 
+## Como Executar
+
+### Backend
+
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+API disponível em:
+
+http://localhost:3000/projects
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Aplicação disponível em:
+
+http://localhost:5173
+
 # 1. Modelagem do Domínio
 
 ## Cliente: Representa a empresa contratante do projeto.
