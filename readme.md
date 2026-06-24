@@ -113,23 +113,23 @@ Responsável pela interface do usuário.
 - Indicadores de saúde;
 - Consulta de apontamentos e alocações.
 ### Tecnologias sugeridas:
-- React
-- TypeScript
+- React;
+- TypeScript.
 
 ## Backend (API)
 Responsável pela aplicação das regras de negócio e exposição dos dados.
 
-### Tecnologia
-- Node.js
-- Express
+### Tecnologia sugerida:
+- Node.js;
+- Express.
 ### Estrutura
-- Controllers (entrada HTTP)
-- Services (regras de negócio)
-- Repositories (acesso a dados)
+- Controllers (entrada HTTP);
+- Services (regras de negócio);
+- Repositories (acesso a dados).
 
 ## Banco de Dados
 
-### Tecnologia
+### Tecnologia sugerida:
 - PostgreSQL
 ### Responsabilidades
 - Armazenamento estruturado dos dados;
